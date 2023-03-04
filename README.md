@@ -26,10 +26,10 @@ Untuk memulai serangan pada file zip Anda, jalankan perintah di bawah ini:
 john --format=PKZIP hash.txt
 ```
 
-![img_3](https://github.com/FII14/CARA-MENGGUNAKAN-ALAT-ZIP2JOHN/blob/main/gambar/IMG_20230304_173653.jpg)
-
 Pada perintah di atas, kita sudah menentukan format file target.
 
 Proses pemecahan kata sandi dimulai. Di sinilah kekuatan kata sandi berperan. Semakin kuat kata sandi, semakin banyak waktu yang dibutuhkan untuk melakukan serangan.
 
 Setelah serangan berhasil, kata sandi akan ditampilkan pada terminal.
+
+![img_3](https://github.com/FII14/CARA-MENGGUNAKAN-ALAT-ZIP2JOHN/blob/main/gambar/IMG_20230304_173653.jpg)
