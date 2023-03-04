@@ -17,7 +17,7 @@ Anda dapat mengekspor hasilnya ke dokumen teks untuk menyimpan hash kata sandi k
 ```
 zip2john nama_file.zip > hash txt
 ```
-![img_2]()
+![img_2](https://github.com/FII14/CARA-MENGGUNAKAN-ALAT-ZIP2JOHN/blob/main/gambar/IMG_20230304_173438.jpg)
 
 
 Untuk memulai serangan pada file zip Anda, jalankan perintah di bawah ini:
