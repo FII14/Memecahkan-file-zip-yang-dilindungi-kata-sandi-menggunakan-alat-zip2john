@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/Penulis-Rofi-brightgreen)
+![](https://img.shields.io/badge/Sistem%20operasi%20-Kali%20Linux-blue)
+![](https://img.shields.io/badge/Pembaharuan%20-Iya-blueviolet)
+![](https://img.shields.io/badge/Kontribusi%20-Terbuka-orange)
+
 ## Memecahkan file zip yang dilindungi kata sandi menggunakan alat zip2john
 
 Berikut ini adalah langkah-langkah untuk memecahkan file zip yang dilindungi kata sandi menggunakan alat zip2john:
