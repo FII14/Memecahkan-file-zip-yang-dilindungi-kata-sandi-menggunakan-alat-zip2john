@@ -26,7 +26,7 @@ Untuk memulai serangan pada file zip Anda, jalankan perintah di bawah ini:
 john --format=PKZIP hash.txt
 ```
 
-![img_3]()
+![img_3](https://github.com/FII14/CARA-MENGGUNAKAN-ALAT-ZIP2JOHN/blob/main/gambar/IMG_20230304_173653.jpg)
 
 Pada perintah di atas, kita sudah menentukan format file target.
 
