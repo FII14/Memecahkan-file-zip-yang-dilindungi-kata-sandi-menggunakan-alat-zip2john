@@ -10,7 +10,7 @@ Untuk mengakses hash kata sandi, arahkan ke lokasi file zip Anda yang dilindungi
 zip2john nama_file.zip
 ```
 
-![img_1]()
+![img_1](https://github.com/FII14/CARA-MENGGUNAKAN-ALAT-ZIP2JOHN/blob/main/gambar/IMG_20230304_173920.jpg)
 
 Anda dapat mengekspor hasilnya ke dokumen teks untuk menyimpan hash kata sandi karena kita akan menggunakannya nanti.
 
